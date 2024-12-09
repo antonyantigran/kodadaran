@@ -1,0 +1,23 @@
+{
+    "elixirLS.suggestSpecs": false,
+    "elixirLS.dialyzerEnabled": true,
+    "elixirLS.signatureAfterComplete": false,
+    "elixirLS.fetchDeps": false,
+
+    "files.associations": {
+    "*.heex": "phoenix-heex"
+    },
+
+    "[elixir]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "JakeBecker.elixir-ls"
+    },
+
+    "[phoenix-heex]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "JakeBecker.elixir-ls"
+    },
+    "editor.fontSize": 10,
+    "window.zoomLevel": 0,
+    "editor.accessibilityPageSize": 12
+}
